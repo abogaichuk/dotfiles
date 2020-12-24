@@ -1,0 +1,19 @@
+[Default Applications]
+x-scheme-handler/postman=Postman.desktop
+text/html=chromium.desktop
+x-scheme-handler/http=chromium.desktop
+x-scheme-handler/https=chromium.desktop
+x-scheme-handler/about=chromium.desktop
+x-scheme-handler/unknown=chromium.desktop
+x-scheme-handler/viber=viber.desktop
+application/pdf=zathura.desktop
+x-scheme-handler/eclipse+command=_home_volotsyuga_soft_AnypointStudio_.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-H45FW0.desktop
+
+[Added Associations]
+application/x-java-archive=org.gnome.FileRoller.desktop;
+application/x-yaml=vim.desktop;
+image/jpeg=org.gnome.eog.desktop;
+image/png=org.gnome.eog.desktop;
+video/mp4=org.gnome.Totem.desktop;mpv.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-H45FW0.desktop;
